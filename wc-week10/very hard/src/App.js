@@ -12,14 +12,14 @@ class Mypage extends Component {
         {
           id:1,
           fname:"Dave",
-          lname:"everyman",
+          lname:"Everyman",
           pnumber:"555-333-2642",
           isCompleted: false
         },
         {
           id:2,
           fname:"Shawn",
-          lname:"bighead",
+          lname:"Bighead",
           pnumber: "555-333-2222",
           isCompleted: false
         },
